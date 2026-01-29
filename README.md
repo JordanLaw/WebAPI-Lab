@@ -3,20 +3,14 @@
 WebAPI-Lab
 
 Packages installation:
-npm i koa koa-bodyparser koa-json koa-logger
-
-npm i koa-router@11.0.2
-
-npm i @types/koa
-
-npm i @types/koa-bodyparser
-
-npm i @types/koa-json
-
-npm i @types/koa-logger
-
-npm i @types/koa-router
-
+npm i koa koa-bodyparser koa-json koa-logger <br>
+npm i koa-router@11.0.2 <br>
+npm i @types/koa <br>
+npm i @types/koa-bodyparser <br>
+npm i @types/koa-json <br>
+npm i @types/koa-logger <br>
+npm i @types/koa-router <br>
+ 
 
 Setup the Web Server:
 1. npx tsc -init
